@@ -1,6 +1,6 @@
 {
   "name": "nodejs-license-key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project fork from https://www.npmjs.com/package/licensekey",
   "main": "index.js",
   "scripts": {
