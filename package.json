@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/indianazhao/nodejs-license-key/issues"
   },
-  "homepage": "https://github.com/indianazhao/nodejs-license-key#readme"
+  "homepage": "https://github.com/indianazhao/nodejs-license-key#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "dotenv": "^2.0.0",
+    "md5": "^2.2.1",
+    "uid-safe": "^2.1.3"
+  }
 }
