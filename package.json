@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-license-key",
+  "version": "1.0.0",
+  "description": "Project fork from https://www.npmjs.com/package/licensekey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indianazhao/nodejs-license-key.git"
+  },
+  "author": "Indiana Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indianazhao/nodejs-license-key/issues"
+  },
+  "homepage": "https://github.com/indianazhao/nodejs-license-key#readme"
+}
