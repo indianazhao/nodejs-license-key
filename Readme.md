@@ -1,4 +1,4 @@
-# Nodejs-License-Key v1.0.0
+# Nodejs-License-Key v1.0.1
 
 This project is forked from the NPM module [LicenseKey](https://www.npmjs.com/package/licensekey).
 
